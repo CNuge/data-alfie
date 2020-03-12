@@ -13,14 +13,14 @@ order
 family	
 subfamily	
 genus 			
-species			- note: this column may be sparsely populated, and is absent for the animal sequences.
+species			- note: this column may be sparsely populated, not all bold records are ID'ed to a species level
 ```
 
 ## Extract the data
 
 The tar.bz2 format was used to get the files compressed so they fit under the 100MB limit of GitHub (not as good as [middle-out compression](http://www.piedpiper.com) but it does the job). 
 
-The following command can be used to decompress the data:
+Try double clicking the the compressed files to initiate decompression. If that doesn't work, the following command can be used to decompress the data from the command line:
 
 ```
 #animal
