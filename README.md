@@ -2,7 +2,7 @@
 
 These files contain a set of publicly available DNA barcode sequences obtained from [BOLD](http://www.boldsystems.org/index.php), used in the training of the alignment-free, kingdom level taxonomic classifier: [alfie](https://github.com/CNuge/alfie).
 
-The filename indicates the kingdom from which the barcode sequences are derivided. Each file contains the following columns of data:
+The filename indicates the kingdom from which the barcode sequences are derived. Each file contains the following columns:
 ```
 processid		- unique ID for relating sequence back to the BOLD database
 clean_dna		- the DNA barcode sequence for the specimen
